@@ -105,6 +105,15 @@ After configuring all the widgets, click "Save Dashboard." Your dashboard will n
 OUTPUT :
 
 CLOUD WATCH ALARM : SHOWING THE " OK " STATE .
+![Image](https://github.com/user-attachments/assets/d519094e-7ccf-4c3a-b1a9-357cd6e83ee3)
+
+SUBSCRIPTION SNS NOTIFICATION :
+
+![Image](https://github.com/user-attachments/assets/8bff6244-99f8-4c4c-bf8e-fef5fb7d4af0)
+
+EMAIL NOTIFICATION :
+
+![Image](https://github.com/user-attachments/assets/56858d8c-13fd-4005-9cc4-c6d714638958)
 
 
 
